@@ -11,7 +11,6 @@ public class Tile {
 	Colour colour; 
 	Shape shape;
 	
-	
 	public Colour getColour() {
 		return colour;
 	}

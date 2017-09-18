@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Player {
 
-	public Player(int id, String player, int score, ArrayList<Tile>[] tiles){
+	public Player(int id, String player, int score, ArrayList<Tile> tiles){
 		
 		iD = id;
 		playerName = player;
@@ -14,7 +14,7 @@ public class Player {
 	int iD;
 	String playerName;
 	int totalScore;
-	ArrayList<Tile>[] currentTiles;
+	ArrayList<Tile> currentTiles;
 	
 	
 	public int getiD() {
@@ -35,10 +35,10 @@ public class Player {
 	public void setTotalScore(int totalScore) {
 		this.totalScore = totalScore;
 	}
-	public ArrayList<Tile>[] getCurrentTiles() {
+	public ArrayList<Tile> getCurrentTiles() {
 		return currentTiles;
 	}
-	public void setCurrentTiles(ArrayList<Tile>[] currentTiles) {
+	public void setCurrentTiles(ArrayList<Tile> currentTiles) {
 		this.currentTiles = currentTiles;
 	}
 	
