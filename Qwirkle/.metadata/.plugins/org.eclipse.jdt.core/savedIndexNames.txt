@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+C:\Users\Karim\Desktop\.DKE year 2\Project 2.1\Code\Qwirkle-AI\Qwirkle-AI\Qwirkle\.metadata\.plugins\org.eclipse.jdt.core
+287837708.index
