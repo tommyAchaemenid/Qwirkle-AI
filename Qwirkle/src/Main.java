@@ -101,10 +101,10 @@ public class Main {
 	public static ArrayList<Player> players = new ArrayList<Player>();
 	public static int currentTurn = 0;
 	
-	
+	// blah blah hhgkdhkgjhdfgfgdfgd
 	// method to assign who plays first based initially on who has the best possible combo and if they have the same score then by who was added first to the list of players
 	public static void assignOrder(){
-		
+		int b=3;
 		int[] scores = new int[players.size()]; 	
 		
 		for (int i = 0; i < players.size(); i++){
